@@ -1,0 +1,62 @@
+[
+  {
+    "id": "flavor-bistro",
+    "title": "Flavor Bistro",
+    "description": "A modern restaurant website with online reservations, menu showcase, and a beautiful gallery. Built for speed and elegance.",
+    "image": "/portfolio/flavor-bistro.jpg",
+    "category": "Restaurant",
+    "technologies": ["Next.js", "Tailwind CSS", "Framer Motion"],
+    "liveUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "urban-realty",
+    "title": "Urban Realty",
+    "description": "A sleek real estate platform with property listings, virtual tours, and an intuitive search experience for home buyers.",
+    "image": "/portfolio/urban-realty.jpg",
+    "category": "Real Estate",
+    "technologies": ["React", "TypeScript", "Supabase"],
+    "liveUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "peak-fitness",
+    "title": "Peak Fitness",
+    "description": "A high-energy fitness studio website with class schedules, membership management, and trainer profiles.",
+    "image": "/portfolio/peak-fitness.jpg",
+    "category": "Fitness",
+    "technologies": ["Next.js", "Tailwind CSS", "Stripe"],
+    "liveUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "greenleaf-organic",
+    "title": "GreenLeaf Organic",
+    "description": "An e-commerce store for organic products with a clean design, product filtering, and seamless checkout flow.",
+    "image": "/portfolio/greenleaf-organic.jpg",
+    "category": "E-Commerce",
+    "technologies": ["Next.js", "Shopify", "Tailwind CSS"],
+    "liveUrl": "#",
+    "featured": false
+  },
+  {
+    "id": "nova-consulting",
+    "title": "Nova Consulting",
+    "description": "A professional consulting firm website with case studies, team profiles, and a booking system for initial consultations.",
+    "image": "/portfolio/nova-consulting.jpg",
+    "category": "Business",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "liveUrl": "#",
+    "featured": false
+  },
+  {
+    "id": "artisan-coffee",
+    "title": "Artisan Coffee Co.",
+    "description": "A boutique coffee brand website with an online store, subscription service, and blog about coffee culture.",
+    "image": "/portfolio/artisan-coffee.jpg",
+    "category": "Food & Beverage",
+    "technologies": ["React", "Node.js", "Tailwind CSS"],
+    "liveUrl": "#",
+    "featured": false
+  }
+]
