@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "badge": "Available for new projects",
+    "title": "We build websites that ",
+    "titleHighlight": "grow your business",
+    "titleEnd": "",
+    "description": "Tek Dünyası creates modern, fast, and professional websites that help small and medium businesses establish a powerful online presence and attract more customers.",
+    "cta": "Start Your Project",
+    "ctaSecondary": "View Our Work",
+    "stats": {
+      "projects": "Projects Delivered",
+      "satisfaction": "Client Satisfaction",
+      "experience": "Years Experience"
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "Everything you need to go online",
+    "description": "From design to launch and beyond, we provide end-to-end web development services tailored to your business needs.",
+    "learnMore": "Learn more",
+    "pageTitle": "Web solutions for every business need",
+    "pageDescription": "We offer a complete range of web development services to help your business succeed online. From initial design to ongoing support.",
+    "pageLabel": "Our Services",
+    "whatYouGet": "What You Get",
+    "getStarted": "Get Started",
+    "items": {
+      "business-website": {
+        "title": "Business Website Development",
+        "shortDescription": "Custom-built websites designed to establish your brand online and convert visitors into customers.",
+        "fullDescription": "We build professional, high-performing websites tailored to your business goals. From company pages to complex multi-page sites, every detail is crafted to represent your brand and drive results.",
+        "benefits": [
+          "Custom design that matches your brand identity",
+          "Mobile-responsive across all devices",
+          "Fast loading speeds for better user experience",
+          "SEO-optimized from the ground up",
+          "Easy to maintain and update"
+        ]
+      },
+      "website-redesign": {
+        "title": "Website Redesign",
+        "shortDescription": "Transform your outdated website into a modern, high-performing digital experience.",
+        "fullDescription": "Is your website looking dated or underperforming? We redesign existing websites to meet modern standards — improving aesthetics, performance, and user experience while preserving your brand identity and SEO value.",
+        "benefits": [
+          "Modern, contemporary design refresh",
+          "Improved site speed and performance",
+          "Better mobile experience",
+          "Enhanced user journey and navigation",
+          "Maintained SEO rankings during transition"
+        ]
+      },
+      "landing-page": {
+        "title": "Landing Page Design",
+        "shortDescription": "High-converting landing pages designed to capture leads and drive specific actions.",
+        "fullDescription": "We create focused, conversion-optimized landing pages for your marketing campaigns, product launches, or lead generation efforts. Every element is strategically placed to guide visitors toward your desired action.",
+        "benefits": [
+          "Conversion-focused design and layout",
+          "A/B testing ready structure",
+          "Fast load times for lower bounce rates",
+          "Clear call-to-action placement",
+          "Analytics integration for tracking"
+        ]
+      },
+      "speed-optimization": {
+        "title": "Website Speed Optimization",
+        "shortDescription": "Make your website lightning fast to improve user experience and search rankings.",
+        "fullDescription": "Slow websites lose visitors and rankings. We analyze your website's performance bottlenecks and implement proven optimization techniques to dramatically improve load times, Core Web Vitals, and overall user experience.",
+        "benefits": [
+          "Faster page load times",
+          "Improved Core Web Vitals scores",
+          "Better search engine rankings",
+          "Reduced bounce rates",
+          "Enhanced user satisfaction"
+        ]
+      },
+      "seo-setup": {
+        "title": "SEO Setup",
+        "shortDescription": "Get found online with a solid SEO foundation that drives organic traffic to your website.",
+        "fullDescription": "We set up your website with comprehensive on-page SEO best practices — from meta tags and structured data to sitemap generation and search engine submission. Start ranking for the keywords that matter to your business.",
+        "benefits": [
+          "Complete on-page SEO configuration",
+          "Meta tags and structured data setup",
+          "XML sitemap and robots.txt configuration",
+          "Google Search Console integration",
+          "Keyword-optimized content structure"
+        ]
+      },
+      "website-maintenance": {
+        "title": "Website Maintenance",
+        "shortDescription": "Keep your website secure, updated, and running smoothly with ongoing maintenance support.",
+        "fullDescription": "Your website needs regular attention to stay secure and perform well. We provide ongoing maintenance services including updates, security monitoring, performance optimization, and content changes so you can focus on running your business.",
+        "benefits": [
+          "Regular security updates and patches",
+          "Performance monitoring and optimization",
+          "Content updates and changes",
+          "Uptime monitoring and quick issue resolution",
+          "Monthly performance reports"
+        ]
+      }
+    }
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Our recent work",
+    "description": "Take a look at some of the projects we've delivered for our clients.",
+    "viewAll": "View All Projects",
+    "viewProject": "View project",
+    "pageLabel": "Our Work",
+    "pageTitle": "Projects we're proud of",
+    "pageDescription": "Every project is an opportunity to create something meaningful. Here's a selection of the websites we've designed and developed."
+  },
+  "whyUs": {
+    "label": "Why Tek Dünyası",
+    "title": "Built for results, designed for growth",
+    "description": "We combine technical excellence with creative design to deliver websites that truly perform.",
+    "items": {
+      "fast": {
+        "title": "Lightning Fast",
+        "description": "Our websites are optimized for speed, ensuring your visitors have a seamless experience and search engines rank you higher."
+      },
+      "design": {
+        "title": "Modern Design",
+        "description": "We follow the latest design trends and best practices to create websites that look stunning and feel professional."
+      },
+      "responsive": {
+        "title": "Fully Responsive",
+        "description": "Every website we build works perfectly on all devices — from desktops and tablets to smartphones."
+      },
+      "seo": {
+        "title": "SEO Optimized",
+        "description": "Built-in SEO best practices help your website rank higher in search results and attract more organic traffic."
+      },
+      "secure": {
+        "title": "Secure & Reliable",
+        "description": "We implement security best practices and use reliable hosting solutions to keep your website safe and online."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "We don't just build and leave. We provide ongoing support and maintenance to ensure your website stays in top shape."
+      }
+    }
+  },
+  "process": {
+    "label": "Our Process",
+    "title": "From idea to launch in 4 steps",
+    "description": "Our streamlined process ensures your project is delivered on time and exceeds expectations.",
+    "steps": {
+      "consultation": {
+        "title": "Consultation",
+        "description": "We start by understanding your business, goals, and target audience. This helps us create a clear roadmap for your project."
+      },
+      "design": {
+        "title": "Design",
+        "description": "We create a custom design that reflects your brand identity and provides the best user experience for your visitors."
+      },
+      "development": {
+        "title": "Development",
+        "description": "Our developers bring the design to life using modern technologies, ensuring your website is fast, responsive, and secure."
+      },
+      "launch": {
+        "title": "Launch",
+        "description": "After thorough testing and your approval, we launch your website and ensure everything runs smoothly from day one."
+      }
+    }
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "What our clients say",
+    "description": "Don't just take our word for it — hear from the businesses we've helped succeed online."
+  },
+  "cta": {
+    "title": "Ready to build your dream website?",
+    "description": "Let's discuss your project and create something amazing together. Get in touch today for a free consultation.",
+    "primary": "Get a Free Consultation",
+    "secondary": "Explore Services"
+  },
+  "about": {
+    "pageLabel": "About Us",
+    "pageTitle": "The story behind Tek Dünyası",
+    "pageDescription": "We're passionate about helping businesses succeed online through modern, high-performing websites.",
+    "storyTitle": "Building the digital future, one website at a time",
+    "story": {
+      "p1": "Tek Dünyası — meaning \"Tech World\" in Turkish — was founded with a simple mission: to help small and medium businesses establish a powerful online presence without the complexity and high costs often associated with web development.",
+      "p2": "I started Tek Dünyası because I saw too many businesses struggling with outdated, slow, and unresponsive websites that were hurting rather than helping their growth. I believed every business deserves a modern, professional website that truly represents their brand.",
+      "p3": "Today, we focus on building websites that are not just visually stunning, but also fast, SEO-friendly, and designed to convert visitors into customers.",
+      "p4": "Our approach is simple: understand your business, design with purpose, build with precision, and deliver results that matter. We treat every project as a partnership, working closely with you to create something you're truly proud of."
+    },
+    "valuesLabel": "Our Values",
+    "valuesTitle": "What drives us",
+    "valuesDescription": "These core principles guide everything we do.",
+    "values": {
+      "quality": {
+        "title": "Quality First",
+        "description": "We never cut corners. Every website we build is crafted with attention to detail, clean code, and best practices."
+      },
+      "client": {
+        "title": "Client-Focused",
+        "description": "Your success is our success. We work closely with you throughout the process to ensure the final result exceeds expectations."
+      },
+      "results": {
+        "title": "Results-Driven",
+        "description": "We build websites with purpose — designed to convert visitors, improve rankings, and drive real business growth."
+      },
+      "technology": {
+        "title": "Modern Technology",
+        "description": "We use the latest technologies and frameworks to build websites that are fast, secure, and ready for the future."
+      }
+    },
+    "techLabel": "Technologies",
+    "techTitle": "Tools we work with",
+    "techDescription": "We use industry-leading technologies to build modern, scalable, and high-performing websites."
+  },
+  "contact": {
+    "pageLabel": "Contact Us",
+    "pageTitle": "Let's start your project",
+    "pageDescription": "Have a project in mind? Fill out the form below and we'll get back to you within 24 hours.",
+    "getInTouch": "Get in touch",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "chatWhatsapp": "Chat on WhatsApp",
+    "responseTime": "Response Time",
+    "within24": "Within 24 hours",
+    "preferWhatsapp": "Prefer WhatsApp?",
+    "whatsappDesc": "Send us a message directly on WhatsApp for a quick response.",
+    "whatsappBtn": "Message on WhatsApp",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "john@company.com",
+      "business": "Business Name",
+      "businessPlaceholder": "Your Company",
+      "projectType": "Project Type",
+      "selectType": "Select a project type",
+      "types": {
+        "business": "Business Website",
+        "redesign": "Website Redesign",
+        "landing": "Landing Page",
+        "speed": "Speed Optimization",
+        "seo": "SEO Setup",
+        "maintenance": "Website Maintenance",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project, goals, and timeline...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "successTitle": "Message sent!",
+      "successDesc": "Thank you for reaching out. We'll get back to you within 24 hours.",
+      "sendAnother": "Send another message",
+      "error": "Something went wrong. Please try again or contact us directly at hello@tekdunyasi.com."
+    }
+  },
+  "footer": {
+    "description": "We build modern, fast, and professional websites that help businesses grow online.",
+    "services": "Services",
+    "company": "Company",
+    "getInTouch": "Get In Touch",
+    "contactForm": "Contact Form",
+    "rights": "All rights reserved.",
+    "builtWith": "Built with modern web technologies",
+    "serviceLinks": {
+      "business": "Business Websites",
+      "redesign": "Website Redesign",
+      "landing": "Landing Pages",
+      "speed": "Speed Optimization",
+      "seo": "SEO Setup",
+      "maintenance": "Maintenance"
+    }
+  },
+  "portfolioItems": {
+    "flavor-bistro": {
+      "title": "Flavor Bistro",
+      "description": "A modern restaurant website with online reservations, menu showcase, and a beautiful gallery. Built for speed and elegance."
+    },
+    "urban-realty": {
+      "title": "Urban Realty",
+      "description": "A sleek real estate platform with property listings, virtual tours, and an intuitive search experience for home buyers."
+    },
+    "peak-fitness": {
+      "title": "Peak Fitness",
+      "description": "A high-energy fitness studio website with class schedules, membership management, and trainer profiles."
+    },
+    "greenleaf-organic": {
+      "title": "GreenLeaf Organic",
+      "description": "An e-commerce store for organic products with a clean design, product filtering, and seamless checkout flow."
+    },
+    "nova-consulting": {
+      "title": "Nova Consulting",
+      "description": "A professional consulting firm website with case studies, team profiles, and a booking system for initial consultations."
+    },
+    "artisan-coffee": {
+      "title": "Artisan Coffee Co.",
+      "description": "A boutique coffee brand website with an online store, subscription service, and blog about coffee culture."
+    }
+  },
+  "testimonialItems": {
+    "sarah": {
+      "content": "Tek Dünyası transformed our online presence completely. Our new website is fast, beautiful, and our customers love it. We've seen a 40% increase in online inquiries since launch."
+    },
+    "david": {
+      "content": "Professional, responsive, and incredibly talented. The team delivered a website that perfectly represents our brand. The attention to detail and communication throughout the process was outstanding."
+    },
+    "emily": {
+      "content": "Working with Tek Dünyası was a game-changer for our restaurant. The website they built is stunning, loads instantly, and has significantly improved our reservation bookings."
+    }
+  }
+}

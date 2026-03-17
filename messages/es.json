@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "getStarted": "Empezar"
+  },
+  "hero": {
+    "badge": "Disponibles para nuevos proyectos",
+    "title": "Creamos sitios web que ",
+    "titleHighlight": "hacen crecer tu negocio",
+    "titleEnd": "",
+    "description": "Tek Dünyası crea sitios web modernos, rápidos y profesionales que ayudan a pequeñas y medianas empresas a establecer una poderosa presencia online y atraer más clientes.",
+    "cta": "Inicia tu proyecto",
+    "ctaSecondary": "Ver nuestro trabajo",
+    "stats": {
+      "projects": "Proyectos entregados",
+      "satisfaction": "Satisfacción del cliente",
+      "experience": "Años de experiencia"
+    }
+  },
+  "services": {
+    "label": "Servicios",
+    "title": "Todo lo que necesitas para estar online",
+    "description": "Desde el diseño hasta el lanzamiento, ofrecemos servicios completos de desarrollo web adaptados a tus necesidades.",
+    "learnMore": "Saber más",
+    "pageTitle": "Soluciones web para cada necesidad empresarial",
+    "pageDescription": "Ofrecemos una gama completa de servicios de desarrollo web para el éxito online de tu empresa.",
+    "pageLabel": "Nuestros servicios",
+    "whatYouGet": "Lo que obtienes",
+    "getStarted": "Empezar",
+    "items": {
+      "business-website": {
+        "title": "Desarrollo de sitios web empresariales",
+        "shortDescription": "Sitios web personalizados para establecer tu marca online y convertir visitantes en clientes.",
+        "fullDescription": "Construimos sitios web profesionales y de alto rendimiento adaptados a tus objetivos de negocio. Cada detalle está diseñado para representar tu marca.",
+        "benefits": ["Diseño personalizado acorde a tu marca", "Adaptable a todos los dispositivos", "Tiempos de carga rápidos", "Optimizado para SEO desde el inicio", "Fácil de mantener y actualizar"]
+      },
+      "website-redesign": {
+        "title": "Rediseño web",
+        "shortDescription": "Transforma tu sitio web obsoleto en una experiencia digital moderna y de alto rendimiento.",
+        "fullDescription": "¿Tu sitio web se ve anticuado? Rediseñamos sitios existentes para cumplir estándares modernos, preservando tu identidad de marca y valor SEO.",
+        "benefits": ["Actualización de diseño moderno", "Velocidad y rendimiento mejorados", "Mejor experiencia móvil", "Navegación optimizada", "Rankings SEO mantenidos"]
+      },
+      "landing-page": {
+        "title": "Diseño de landing pages",
+        "shortDescription": "Landing pages de alta conversión diseñadas para captar leads y generar acciones específicas.",
+        "fullDescription": "Creamos landing pages optimizadas para la conversión de tus campañas de marketing y lanzamientos de productos.",
+        "benefits": ["Diseño enfocado en conversión", "Estructura lista para pruebas A/B", "Carga rápida", "Ubicación clara de CTA", "Integración de analíticas"]
+      },
+      "speed-optimization": {
+        "title": "Optimización de velocidad web",
+        "shortDescription": "Haz que tu sitio web sea ultrarrápido para mejorar la experiencia de usuario y los rankings.",
+        "fullDescription": "Los sitios lentos pierden visitantes y rankings. Analizamos cuellos de botella e implementamos técnicas de optimización probadas.",
+        "benefits": ["Tiempos de carga más rápidos", "Mejores puntuaciones Core Web Vitals", "Mejores rankings en buscadores", "Menor tasa de rebote", "Mayor satisfacción del usuario"]
+      },
+      "seo-setup": {
+        "title": "Configuración SEO",
+        "shortDescription": "Sé encontrado online con una base sólida de SEO que impulse el tráfico orgánico.",
+        "fullDescription": "Configuramos tu sitio web con las mejores prácticas de SEO on-page — desde meta etiquetas hasta generación de sitemap.",
+        "benefits": ["Configuración completa de SEO on-page", "Meta etiquetas y datos estructurados", "Sitemap XML y robots.txt", "Integración con Google Search Console", "Estructura de contenido optimizada"]
+      },
+      "website-maintenance": {
+        "title": "Mantenimiento web",
+        "shortDescription": "Mantén tu sitio web seguro, actualizado y funcionando sin problemas con soporte continuo.",
+        "fullDescription": "Tu sitio necesita atención regular. Ofrecemos servicios de mantenimiento continuo incluyendo actualizaciones y monitoreo de seguridad.",
+        "benefits": ["Actualizaciones de seguridad regulares", "Monitoreo de rendimiento", "Actualizaciones de contenido", "Monitoreo de disponibilidad", "Informes mensuales de rendimiento"]
+      }
+    }
+  },
+  "portfolio": {
+    "label": "Portafolio",
+    "title": "Nuestro trabajo reciente",
+    "description": "Echa un vistazo a algunos de los proyectos que hemos entregado para nuestros clientes.",
+    "viewAll": "Ver todos los proyectos",
+    "viewProject": "Ver proyecto",
+    "pageLabel": "Nuestro trabajo",
+    "pageTitle": "Proyectos de los que estamos orgullosos",
+    "pageDescription": "Cada proyecto es una oportunidad para crear algo significativo. Aquí una selección de sitios web que hemos diseñado."
+  },
+  "whyUs": {
+    "label": "Por qué Tek Dünyası",
+    "title": "Construido para resultados, diseñado para crecer",
+    "description": "Combinamos excelencia técnica con diseño creativo para entregar sitios web que realmente funcionan.",
+    "items": {
+      "fast": { "title": "Ultrarrápido", "description": "Nuestros sitios están optimizados para velocidad, asegurando una experiencia fluida para tus visitantes." },
+      "design": { "title": "Diseño moderno", "description": "Seguimos las últimas tendencias de diseño para crear sitios web impresionantes y profesionales." },
+      "responsive": { "title": "Totalmente responsivo", "description": "Cada sitio funciona perfectamente en todos los dispositivos — escritorio, tablet y móvil." },
+      "seo": { "title": "Optimizado para SEO", "description": "Las mejores prácticas de SEO integradas ayudan a tu sitio a posicionarse mejor en los buscadores." },
+      "secure": { "title": "Seguro y confiable", "description": "Implementamos las mejores prácticas de seguridad y usamos hosting confiable." },
+      "support": { "title": "Soporte continuo", "description": "No solo construimos y nos vamos. Proporcionamos soporte y mantenimiento continuo." }
+    }
+  },
+  "process": {
+    "label": "Nuestro proceso",
+    "title": "De la idea al lanzamiento en 4 pasos",
+    "description": "Nuestro proceso optimizado asegura que tu proyecto se entregue a tiempo y supere expectativas.",
+    "steps": {
+      "consultation": { "title": "Consulta", "description": "Comenzamos entendiendo tu negocio, objetivos y audiencia para crear una hoja de ruta clara." },
+      "design": { "title": "Diseño", "description": "Creamos un diseño personalizado que refleja tu identidad de marca y proporciona la mejor UX." },
+      "development": { "title": "Desarrollo", "description": "Nuestros desarrolladores dan vida al diseño con tecnologías modernas." },
+      "launch": { "title": "Lanzamiento", "description": "Después de pruebas exhaustivas, lanzamos tu sitio y aseguramos que todo funcione perfectamente." }
+    }
+  },
+  "testimonials": {
+    "label": "Testimonios",
+    "title": "Lo que dicen nuestros clientes",
+    "description": "No solo confíes en nosotros — escucha a las empresas que hemos ayudado a tener éxito online."
+  },
+  "cta": {
+    "title": "¿Listo para crear el sitio web de tus sueños?",
+    "description": "Hablemos de tu proyecto y creemos algo increíble juntos. Contáctanos hoy para una consulta gratuita.",
+    "primary": "Consulta gratuita",
+    "secondary": "Explorar servicios"
+  },
+  "about": {
+    "pageLabel": "Nosotros",
+    "pageTitle": "La historia detrás de Tek Dünyası",
+    "pageDescription": "Nos apasiona ayudar a las empresas a tener éxito online a través de sitios web modernos y de alto rendimiento.",
+    "storyTitle": "Construyendo el futuro digital, un sitio web a la vez",
+    "story": {
+      "p1": "Tek Dünyası — que significa \"Mundo Tech\" en turco — fue fundada con una misión simple: ayudar a pymes a establecer una presencia online poderosa sin la complejidad y los altos costos.",
+      "p2": "Fundé Tek Dünyası porque vi demasiadas empresas luchando con sitios web obsoletos y lentos. Creí que toda empresa merece un sitio web moderno y profesional.",
+      "p3": "Hoy nos enfocamos en crear sitios web que no solo sean visualmente impresionantes, sino también rápidos, amigables con SEO y diseñados para convertir.",
+      "p4": "Nuestro enfoque es simple: entender tu negocio, diseñar con propósito, construir con precisión y entregar resultados que importan."
+    },
+    "valuesLabel": "Nuestros valores",
+    "valuesTitle": "Lo que nos impulsa",
+    "valuesDescription": "Estos principios fundamentales guían todo lo que hacemos.",
+    "values": {
+      "quality": { "title": "Calidad primero", "description": "Nunca tomamos atajos. Cada sitio se construye con atención al detalle y código limpio." },
+      "client": { "title": "Enfoque en el cliente", "description": "Tu éxito es nuestro éxito. Trabajamos de cerca contigo durante todo el proceso." },
+      "results": { "title": "Orientados a resultados", "description": "Construimos sitios web con propósito — diseñados para convertir y hacer crecer tu negocio." },
+      "technology": { "title": "Tecnología moderna", "description": "Usamos las últimas tecnologías para crear sitios rápidos, seguros y preparados para el futuro." }
+    },
+    "techLabel": "Tecnologías",
+    "techTitle": "Herramientas con las que trabajamos",
+    "techDescription": "Usamos tecnologías líderes de la industria para crear sitios web modernos y escalables."
+  },
+  "contact": {
+    "pageLabel": "Contacto",
+    "pageTitle": "Comencemos tu proyecto",
+    "pageDescription": "¿Tienes un proyecto en mente? Completa el formulario y te responderemos en 24 horas.",
+    "getInTouch": "Ponte en contacto",
+    "email": "Correo electrónico",
+    "whatsapp": "WhatsApp",
+    "chatWhatsapp": "Chatear en WhatsApp",
+    "responseTime": "Tiempo de respuesta",
+    "within24": "Dentro de 24 horas",
+    "preferWhatsapp": "¿Prefieres WhatsApp?",
+    "whatsappDesc": "Envíanos un mensaje directamente en WhatsApp para una respuesta rápida.",
+    "whatsappBtn": "Mensaje en WhatsApp",
+    "form": {
+      "name": "Tu nombre",
+      "namePlaceholder": "Juan García",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "juan@empresa.com",
+      "business": "Nombre de la empresa",
+      "businessPlaceholder": "Tu empresa",
+      "projectType": "Tipo de proyecto",
+      "selectType": "Selecciona un tipo",
+      "types": {
+        "business": "Sitio web empresarial",
+        "redesign": "Rediseño web",
+        "landing": "Landing page",
+        "speed": "Optimización de velocidad",
+        "seo": "Configuración SEO",
+        "maintenance": "Mantenimiento web",
+        "other": "Otro"
+      },
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntanos sobre tu proyecto, objetivos y plazos...",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "successTitle": "¡Mensaje enviado!",
+      "successDesc": "Gracias por contactarnos. Te responderemos en 24 horas.",
+      "sendAnother": "Enviar otro mensaje",
+      "error": "Algo salió mal. Por favor intenta de nuevo o contáctanos en hello@tekdunyasi.com."
+    }
+  },
+  "footer": {
+    "description": "Creamos sitios web modernos, rápidos y profesionales que ayudan a las empresas a crecer online.",
+    "services": "Servicios",
+    "company": "Empresa",
+    "getInTouch": "Contacto",
+    "contactForm": "Formulario de contacto",
+    "rights": "Todos los derechos reservados.",
+    "builtWith": "Construido con tecnologías web modernas",
+    "serviceLinks": {
+      "business": "Sitios empresariales",
+      "redesign": "Rediseño web",
+      "landing": "Landing pages",
+      "speed": "Optimización de velocidad",
+      "seo": "Configuración SEO",
+      "maintenance": "Mantenimiento"
+    }
+  },
+  "portfolioItems": {
+    "flavor-bistro": { "title": "Flavor Bistro", "description": "Un moderno sitio web de restaurante con reservas online, menú y una hermosa galería." },
+    "urban-realty": { "title": "Urban Realty", "description": "Una elegante plataforma inmobiliaria con listados, tours virtuales y búsqueda intuitiva." },
+    "peak-fitness": { "title": "Peak Fitness", "description": "Un sitio web de estudio fitness con horarios de clases y gestión de membresías." },
+    "greenleaf-organic": { "title": "GreenLeaf Organic", "description": "Una tienda online de productos orgánicos con diseño limpio y checkout fluido." },
+    "nova-consulting": { "title": "Nova Consulting", "description": "Un sitio web de consultoría profesional con casos de estudio y sistema de reservas." },
+    "artisan-coffee": { "title": "Artisan Coffee Co.", "description": "Un sitio web de marca de café boutique con tienda online y blog sobre cultura cafetera." }
+  },
+  "testimonialItems": {
+    "sarah": { "content": "Tek Dünyası transformó completamente nuestra presencia online. Nuestro nuevo sitio es rápido, hermoso y nuestros clientes lo aman. Hemos visto un aumento del 40% en consultas." },
+    "david": { "content": "Profesional, receptivo e increíblemente talentoso. El equipo entregó un sitio web que representa perfectamente nuestra marca." },
+    "emily": { "content": "Trabajar con Tek Dünyası fue un cambio radical para nuestro restaurante. El sitio es impresionante y ha mejorado significativamente nuestras reservas." }
+  }
+}

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 
 interface ButtonProps {
   href: string;
@@ -15,16 +15,12 @@ export default function Button({
   children,
   className = "",
 }: ButtonProps) {
-  const base =
-    "inline-flex items-center justify-center font-medium rounded-xl transition-all";
+  const base = "inline-flex items-center justify-center font-medium rounded-xl transition-all";
 
   const variants = {
-    primary:
-      "bg-primary text-white hover:bg-primary-dark hover:shadow-lg hover:shadow-primary/25",
-    secondary:
-      "bg-light text-primary hover:bg-primary hover:text-white",
-    outline:
-      "border-2 border-gray-200 text-dark hover:border-primary hover:text-primary",
+    primary: "bg-primary text-white hover:bg-primary-dark hover:shadow-lg hover:shadow-primary/25",
+    secondary: "bg-light text-primary hover:bg-primary hover:text-white",
+    outline: "border-2 border-gray-200 text-dark hover:border-primary hover:text-primary",
   };
 
   const sizes = {
@@ -34,10 +30,7 @@ export default function Button({
   };
 
   return (
-    <Link
-      href={href}
-      className={`${base} ${variants[variant]} ${sizes[size]} ${className}`}
-    >
+    <Link href={href} className={`${base} ${variants[variant]} ${sizes[size]} ${className}`}>
       {children}
     </Link>
   );

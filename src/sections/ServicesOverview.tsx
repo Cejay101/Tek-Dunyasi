@@ -1,25 +1,37 @@
+import { useTranslations } from "next-intl";
 import SectionHeading from "@/components/SectionHeading";
 import ServiceCard from "@/components/ServiceCard";
-import { services } from "@/data/services";
+
+const serviceIds = [
+  { id: "business-website", icon: "globe" },
+  { id: "website-redesign", icon: "refresh" },
+  { id: "landing-page", icon: "layout" },
+  { id: "speed-optimization", icon: "zap" },
+  { id: "seo-setup", icon: "search" },
+  { id: "website-maintenance", icon: "shield" },
+];
 
 export default function ServicesOverview() {
+  const t = useTranslations("services");
+
   return (
     <section className="py-24 bg-gray-50/50">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <SectionHeading
-          label="Services"
-          title="Everything you need to go online"
-          description="From design to launch and beyond, we provide end-to-end web development services tailored to your business needs."
+          label={t("label")}
+          title={t("title")}
+          description={t("description")}
         />
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {services.map((service) => (
+          {serviceIds.map((service) => (
             <ServiceCard
               key={service.id}
               id={service.id}
-              title={service.title}
-              description={service.shortDescription}
+              title={t(`items.${service.id}.title`)}
+              description={t(`items.${service.id}.shortDescription`)}
               icon={service.icon}
+              learnMoreLabel={t("learnMore")}
             />
           ))}
         </div>

@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "portfolio": "Portföy",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "getStarted": "Başlayın"
+  },
+  "hero": {
+    "badge": "Yeni projeler için müsaitiz",
+    "title": "İşinizi ",
+    "titleHighlight": "büyüten web siteleri",
+    "titleEnd": " oluşturuyoruz",
+    "description": "Tek Dünyası, küçük ve orta ölçekli işletmelerin güçlü bir çevrimiçi varlık oluşturmasına ve daha fazla müşteri çekmesine yardımcı olan modern, hızlı ve profesyonel web siteleri oluşturur.",
+    "cta": "Projenize Başlayın",
+    "ctaSecondary": "Çalışmalarımızı Görün",
+    "stats": {
+      "projects": "Tamamlanan Proje",
+      "satisfaction": "Müşteri Memnuniyeti",
+      "experience": "Yıl Deneyim"
+    }
+  },
+  "services": {
+    "label": "Hizmetler",
+    "title": "Çevrimiçi olmak için ihtiyacınız olan her şey",
+    "description": "Tasarımdan lansmana ve sonrasına kadar, iş ihtiyaçlarınıza göre uyarlanmış uçtan uca web geliştirme hizmetleri sunuyoruz.",
+    "learnMore": "Daha fazla bilgi",
+    "pageTitle": "Her iş ihtiyacına web çözümleri",
+    "pageDescription": "İşletmenizin çevrimiçi başarısı için eksiksiz web geliştirme hizmetleri sunuyoruz. İlk tasarımdan sürekli desteğe kadar.",
+    "pageLabel": "Hizmetlerimiz",
+    "whatYouGet": "Ne Elde Edersiniz",
+    "getStarted": "Başlayın",
+    "items": {
+      "business-website": {
+        "title": "Kurumsal Web Sitesi Geliştirme",
+        "shortDescription": "Markanızı çevrimiçi ortamda oluşturmak ve ziyaretçileri müşteriye dönüştürmek için özel olarak tasarlanmış web siteleri.",
+        "fullDescription": "İş hedeflerinize uygun profesyonel, yüksek performanslı web siteleri oluşturuyoruz. Şirket sayfalarından karmaşık çok sayfalı sitelere kadar her detay, markanızı temsil etmek ve sonuç almak için özenle hazırlanır.",
+        "benefits": [
+          "Marka kimliğinize uygun özel tasarım",
+          "Tüm cihazlarda mobil uyumlu",
+          "Daha iyi kullanıcı deneyimi için hızlı yükleme",
+          "Temelden SEO optimizasyonu",
+          "Kolay bakım ve güncelleme"
+        ]
+      },
+      "website-redesign": {
+        "title": "Web Sitesi Yenileme",
+        "shortDescription": "Eski web sitenizi modern, yüksek performanslı bir dijital deneyime dönüştürün.",
+        "fullDescription": "Web siteniz eski görünüyor veya düşük performans mı gösteriyor? Marka kimliğinizi ve SEO değerinizi koruyarak mevcut web sitelerini modern standartlara uygun olarak yeniden tasarlıyoruz.",
+        "benefits": [
+          "Modern, çağdaş tasarım yenileme",
+          "İyileştirilmiş site hızı ve performans",
+          "Daha iyi mobil deneyim",
+          "Geliştirilmiş kullanıcı yolculuğu ve navigasyon",
+          "Geçiş sırasında SEO sıralamalarının korunması"
+        ]
+      },
+      "landing-page": {
+        "title": "Açılış Sayfası Tasarımı",
+        "shortDescription": "Potansiyel müşteri yakalamak ve belirli eylemlere yönlendirmek için tasarlanmış yüksek dönüşümlü açılış sayfaları.",
+        "fullDescription": "Pazarlama kampanyalarınız, ürün lansmanlarınız veya potansiyel müşteri oluşturma çalışmalarınız için odaklanmış, dönüşüm odaklı açılış sayfaları oluşturuyoruz.",
+        "benefits": [
+          "Dönüşüm odaklı tasarım ve düzen",
+          "A/B testi için hazır yapı",
+          "Düşük hemen çıkma oranı için hızlı yükleme",
+          "Net eylem çağrısı yerleşimi",
+          "Takip için analitik entegrasyonu"
+        ]
+      },
+      "speed-optimization": {
+        "title": "Web Sitesi Hız Optimizasyonu",
+        "shortDescription": "Kullanıcı deneyimini ve arama sıralamalarını iyileştirmek için web sitenizi ışık hızında yapın.",
+        "fullDescription": "Yavaş web siteleri ziyaretçi ve sıralama kaybettirir. Web sitenizin performans darboğazlarını analiz ediyor ve yükleme sürelerini dramatik şekilde iyileştirmek için kanıtlanmış optimizasyon teknikleri uyguluyoruz.",
+        "benefits": [
+          "Daha hızlı sayfa yükleme süreleri",
+          "İyileştirilmiş Core Web Vitals puanları",
+          "Daha iyi arama motoru sıralamaları",
+          "Azaltılmış hemen çıkma oranları",
+          "Artırılmış kullanıcı memnuniyeti"
+        ]
+      },
+      "seo-setup": {
+        "title": "SEO Kurulumu",
+        "shortDescription": "Web sitenize organik trafik çeken sağlam bir SEO temeli ile çevrimiçi bulunun.",
+        "fullDescription": "Web sitenizi kapsamlı sayfa içi SEO en iyi uygulamalarıyla kuruyoruz — meta etiketlerinden ve yapılandırılmış verilerden site haritası oluşturmaya ve arama motoru gönderime kadar.",
+        "benefits": [
+          "Tam sayfa içi SEO yapılandırması",
+          "Meta etiketleri ve yapılandırılmış veri kurulumu",
+          "XML site haritası ve robots.txt yapılandırması",
+          "Google Search Console entegrasyonu",
+          "Anahtar kelime optimizeli içerik yapısı"
+        ]
+      },
+      "website-maintenance": {
+        "title": "Web Sitesi Bakımı",
+        "shortDescription": "Sürekli bakım desteği ile web sitenizi güvenli, güncel ve sorunsuz çalışır durumda tutun.",
+        "fullDescription": "Web sitenizin güvenli kalması ve iyi performans göstermesi için düzenli ilgi gerekir. Güncellemeler, güvenlik izleme, performans optimizasyonu ve içerik değişiklikleri dahil sürekli bakım hizmetleri sunuyoruz.",
+        "benefits": [
+          "Düzenli güvenlik güncellemeleri ve yamaları",
+          "Performans izleme ve optimizasyon",
+          "İçerik güncellemeleri ve değişiklikler",
+          "Çalışma süresi izleme ve hızlı sorun çözümü",
+          "Aylık performans raporları"
+        ]
+      }
+    }
+  },
+  "portfolio": {
+    "label": "Portföy",
+    "title": "Son çalışmalarımız",
+    "description": "Müşterilerimiz için teslim ettiğimiz projelerden bazılarına göz atın.",
+    "viewAll": "Tüm Projeleri Görün",
+    "viewProject": "Projeyi görüntüle",
+    "pageLabel": "Çalışmalarımız",
+    "pageTitle": "Gurur duyduğumuz projeler",
+    "pageDescription": "Her proje anlamlı bir şey yaratmak için bir fırsattır. İşte tasarladığımız ve geliştirdiğimiz web sitelerinden bir seçki."
+  },
+  "whyUs": {
+    "label": "Neden Tek Dünyası",
+    "title": "Sonuç odaklı, büyüme için tasarlandı",
+    "description": "Gerçekten performans gösteren web siteleri sunmak için teknik mükemmelliği yaratıcı tasarımla birleştiriyoruz.",
+    "items": {
+      "fast": {
+        "title": "Işık Hızında",
+        "description": "Web sitelerimiz hız için optimize edilmiştir, ziyaretçilerinizin sorunsuz bir deneyim yaşamasını ve arama motorlarının sizi daha üst sıralara çıkarmasını sağlar."
+      },
+      "design": {
+        "title": "Modern Tasarım",
+        "description": "Çarpıcı görünen ve profesyonel hissettiren web siteleri oluşturmak için en son tasarım trendlerini ve en iyi uygulamaları takip ediyoruz."
+      },
+      "responsive": {
+        "title": "Tam Uyumlu",
+        "description": "Oluşturduğumuz her web sitesi tüm cihazlarda mükemmel çalışır — masaüstü, tablet ve akıllı telefonlar."
+      },
+      "seo": {
+        "title": "SEO Optimizeli",
+        "description": "Yerleşik SEO en iyi uygulamaları, web sitenizin arama sonuçlarında daha üst sıralarda yer almasına ve daha fazla organik trafik çekmesine yardımcı olur."
+      },
+      "secure": {
+        "title": "Güvenli ve Güvenilir",
+        "description": "Web sitenizi güvende ve çevrimiçi tutmak için güvenlik en iyi uygulamalarını uyguluyoruz ve güvenilir barındırma çözümleri kullanıyoruz."
+      },
+      "support": {
+        "title": "Sürekli Destek",
+        "description": "Sadece inşa edip bırakmıyoruz. Web sitenizin en iyi durumda kalmasını sağlamak için sürekli destek ve bakım sağlıyoruz."
+      }
+    }
+  },
+  "process": {
+    "label": "Sürecimiz",
+    "title": "Fikirden lansmana 4 adımda",
+    "description": "Kolaylaştırılmış sürecimiz, projenizin zamanında teslim edilmesini ve beklentileri aşmasını sağlar.",
+    "steps": {
+      "consultation": {
+        "title": "Danışmanlık",
+        "description": "İşletmenizi, hedeflerinizi ve hedef kitlenizi anlayarak başlıyoruz. Bu, projeniz için net bir yol haritası oluşturmamıza yardımcı olur."
+      },
+      "design": {
+        "title": "Tasarım",
+        "description": "Marka kimliğinizi yansıtan ve ziyaretçileriniz için en iyi kullanıcı deneyimini sağlayan özel bir tasarım oluşturuyoruz."
+      },
+      "development": {
+        "title": "Geliştirme",
+        "description": "Geliştiricilerimiz, web sitenizin hızlı, duyarlı ve güvenli olmasını sağlamak için modern teknolojiler kullanarak tasarımı hayata geçirir."
+      },
+      "launch": {
+        "title": "Lansman",
+        "description": "Kapsamlı test ve onayınızdan sonra web sitenizi başlatıyor ve her şeyin ilk günden sorunsuz çalışmasını sağlıyoruz."
+      }
+    }
+  },
+  "testimonials": {
+    "label": "Referanslar",
+    "title": "Müşterilerimiz ne diyor",
+    "description": "Sadece bize güvenmeyin — çevrimiçi başarıya ulaşmasına yardımcı olduğumuz işletmeleri dinleyin."
+  },
+  "cta": {
+    "title": "Hayalinizdeki web sitesini oluşturmaya hazır mısınız?",
+    "description": "Projenizi tartışalım ve birlikte harika bir şey yaratalım. Ücretsiz danışmanlık için bugün bize ulaşın.",
+    "primary": "Ücretsiz Danışmanlık Alın",
+    "secondary": "Hizmetleri Keşfedin"
+  },
+  "about": {
+    "pageLabel": "Hakkımızda",
+    "pageTitle": "Tek Dünyası'nın hikayesi",
+    "pageDescription": "Modern, yüksek performanslı web siteleri aracılığıyla işletmelerin çevrimiçi başarısına tutkuyla bağlıyız.",
+    "storyTitle": "Dijital geleceği inşa ediyoruz, her seferinde bir web sitesi",
+    "story": {
+      "p1": "Tek Dünyası — Türkçede \"Teknoloji Dünyası\" anlamına gelir — basit bir misyonla kuruldu: küçük ve orta ölçekli işletmelerin, web geliştirme ile sıkça ilişkilendirilen karmaşıklık ve yüksek maliyetler olmadan güçlü bir çevrimiçi varlık oluşturmasına yardımcı olmak.",
+      "p2": "Tek Dünyası'nı kurdum çünkü birçok işletmenin büyümelerine zarar veren eski, yavaş ve duyarsız web siteleriyle mücadele ettiğini gördüm. Her işletmenin markasını gerçekten temsil eden modern, profesyonel bir web sitesini hak ettiğine inanıyordum.",
+      "p3": "Bugün, sadece görsel olarak çarpıcı değil, aynı zamanda hızlı, SEO dostu ve ziyaretçileri müşteriye dönüştürmek için tasarlanmış web siteleri oluşturmaya odaklanıyoruz.",
+      "p4": "Yaklaşımımız basit: işinizi anlayın, amaçla tasarlayın, hassasiyetle inşa edin ve önemli sonuçlar sunun. Her projeyi bir ortaklık olarak değerlendiriyor, gerçekten gurur duyacağınız bir şey yaratmak için sizinle yakın çalışıyoruz."
+    },
+    "valuesLabel": "Değerlerimiz",
+    "valuesTitle": "Bizi yönlendiren şey",
+    "valuesDescription": "Bu temel ilkeler yaptığımız her şeye rehberlik eder.",
+    "values": {
+      "quality": {
+        "title": "Kalite Önce",
+        "description": "Asla kısa yoldan gitmeyiz. Oluşturduğumuz her web sitesi, detaya dikkat, temiz kod ve en iyi uygulamalarla hazırlanır."
+      },
+      "client": {
+        "title": "Müşteri Odaklı",
+        "description": "Sizin başarınız bizim başarımızdır. Sonuçların beklentileri aşmasını sağlamak için süreç boyunca sizinle yakın çalışıyoruz."
+      },
+      "results": {
+        "title": "Sonuç Odaklı",
+        "description": "Amacı olan web siteleri oluşturuyoruz — ziyaretçileri dönüştürmek, sıralamaları iyileştirmek ve gerçek iş büyümesini sağlamak için tasarlanmış."
+      },
+      "technology": {
+        "title": "Modern Teknoloji",
+        "description": "Hızlı, güvenli ve geleceğe hazır web siteleri oluşturmak için en son teknolojileri ve çerçeveleri kullanıyoruz."
+      }
+    },
+    "techLabel": "Teknolojiler",
+    "techTitle": "Çalıştığımız araçlar",
+    "techDescription": "Modern, ölçeklenebilir ve yüksek performanslı web siteleri oluşturmak için sektör lideri teknolojiler kullanıyoruz."
+  },
+  "contact": {
+    "pageLabel": "İletişim",
+    "pageTitle": "Projenize başlayalım",
+    "pageDescription": "Aklınızda bir proje mi var? Aşağıdaki formu doldurun, 24 saat içinde size geri döneceğiz.",
+    "getInTouch": "İletişime Geçin",
+    "email": "E-posta",
+    "whatsapp": "WhatsApp",
+    "chatWhatsapp": "WhatsApp'ta Yazışın",
+    "responseTime": "Yanıt Süresi",
+    "within24": "24 saat içinde",
+    "preferWhatsapp": "WhatsApp'ı mı tercih edersiniz?",
+    "whatsappDesc": "Hızlı yanıt için doğrudan WhatsApp'tan mesaj gönderin.",
+    "whatsappBtn": "WhatsApp'tan Mesaj Gönderin",
+    "form": {
+      "name": "Adınız",
+      "namePlaceholder": "Ahmet Yılmaz",
+      "emailLabel": "E-posta Adresi",
+      "emailPlaceholder": "ahmet@sirket.com",
+      "business": "İşletme Adı",
+      "businessPlaceholder": "Şirketiniz",
+      "projectType": "Proje Türü",
+      "selectType": "Proje türü seçin",
+      "types": {
+        "business": "Kurumsal Web Sitesi",
+        "redesign": "Web Sitesi Yenileme",
+        "landing": "Açılış Sayfası",
+        "speed": "Hız Optimizasyonu",
+        "seo": "SEO Kurulumu",
+        "maintenance": "Web Sitesi Bakımı",
+        "other": "Diğer"
+      },
+      "message": "Mesaj",
+      "messagePlaceholder": "Projeniz, hedefleriniz ve zaman çizelgeniz hakkında bilgi verin...",
+      "submit": "Mesaj Gönder",
+      "submitting": "Gönderiliyor...",
+      "successTitle": "Mesaj gönderildi!",
+      "successDesc": "Bize ulaştığınız için teşekkürler. 24 saat içinde size geri döneceğiz.",
+      "sendAnother": "Başka bir mesaj gönderin",
+      "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin veya hello@tekdunyasi.com adresinden doğrudan bize ulaşın."
+    }
+  },
+  "footer": {
+    "description": "İşletmelerin çevrimiçi büyümesine yardımcı olan modern, hızlı ve profesyonel web siteleri oluşturuyoruz.",
+    "services": "Hizmetler",
+    "company": "Şirket",
+    "getInTouch": "İletişime Geçin",
+    "contactForm": "İletişim Formu",
+    "rights": "Tüm hakları saklıdır.",
+    "builtWith": "Modern web teknolojileri ile yapılmıştır",
+    "serviceLinks": {
+      "business": "Kurumsal Web Siteleri",
+      "redesign": "Web Sitesi Yenileme",
+      "landing": "Açılış Sayfaları",
+      "speed": "Hız Optimizasyonu",
+      "seo": "SEO Kurulumu",
+      "maintenance": "Bakım"
+    }
+  },
+  "portfolioItems": {
+    "flavor-bistro": {
+      "title": "Flavor Bistro",
+      "description": "Online rezervasyon, menü vitrin ve güzel bir galeri ile modern bir restoran web sitesi. Hız ve şıklık için tasarlandı."
+    },
+    "urban-realty": {
+      "title": "Urban Realty",
+      "description": "Mülk listelemeleri, sanal turlar ve ev alıcıları için sezgisel bir arama deneyimi sunan şık bir gayrimenkul platformu."
+    },
+    "peak-fitness": {
+      "title": "Peak Fitness",
+      "description": "Ders programları, üyelik yönetimi ve eğitmen profilleri ile yüksek enerjili bir fitness stüdyosu web sitesi."
+    },
+    "greenleaf-organic": {
+      "title": "GreenLeaf Organic",
+      "description": "Temiz tasarım, ürün filtreleme ve sorunsuz ödeme akışı ile organik ürünler için bir e-ticaret mağazası."
+    },
+    "nova-consulting": {
+      "title": "Nova Consulting",
+      "description": "Vaka çalışmaları, ekip profilleri ve ilk danışmanlık için rezervasyon sistemi ile profesyonel bir danışmanlık firması web sitesi."
+    },
+    "artisan-coffee": {
+      "title": "Artisan Coffee Co.",
+      "description": "Online mağaza, abonelik hizmeti ve kahve kültürü hakkında blog ile butik bir kahve markası web sitesi."
+    }
+  },
+  "testimonialItems": {
+    "sarah": {
+      "content": "Tek Dünyası çevrimiçi varlığımızı tamamen dönüştürdü. Yeni web sitemiz hızlı, güzel ve müşterilerimiz onu seviyor. Lansmandan bu yana çevrimiçi sorularda %40 artış gördük."
+    },
+    "david": {
+      "content": "Profesyonel, duyarlı ve inanılmaz yetenekli. Ekip, markamızı mükemmel temsil eden bir web sitesi teslim etti. Süreç boyunca detaylara gösterilen özen ve iletişim olağanüstüydü."
+    },
+    "emily": {
+      "content": "Tek Dünyası ile çalışmak restoranımız için oyunun kurallarını değiştirdi. Oluşturdukları web sitesi çarpıcı, anında yükleniyor ve rezervasyon sayılarımızı önemli ölçüde artırdı."
+    }
+  }
+}
