@@ -13,8 +13,24 @@ export default function ContactForm() {
     const form = e.currentTarget;
     const formData = new FormData(form);
 
+    const name = formData.get("name")?.toString().trim() ?? "";
+    const email = formData.get("email")?.toString().trim() ?? "";
+    const message = formData.get("message")?.toString().trim() ?? "";
+
+    if (!name || !email || !message) {
+      setStatus("error");
+      return;
+    }
+
+    if (name.length > 200 || email.length > 254 || message.length > 5000) {
+      setStatus("error");
+      return;
+    }
+
+    const formId = process.env.NEXT_PUBLIC_FORMSPREE_ID ?? "YOUR_FORM_ID";
+
     try {
-      const response = await fetch("https://formspree.io/f/YOUR_FORM_ID", {
+      const response = await fetch(`https://formspree.io/f/${formId}`, {
         method: "POST",
         body: formData,
         headers: { Accept: "application/json" },
@@ -53,11 +69,11 @@ export default function ContactForm() {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         <div>
           <label htmlFor="name" className="block text-sm font-medium text-dark mb-2">{t("name")}</label>
-          <input type="text" id="name" name="name" required className="w-full px-4 py-3 rounded-xl border border-gray-200 text-dark text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors" placeholder={t("namePlaceholder")} />
+          <input type="text" id="name" name="name" required maxLength={200} className="w-full px-4 py-3 rounded-xl border border-gray-200 text-dark text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors" placeholder={t("namePlaceholder")} />
         </div>
         <div>
           <label htmlFor="email" className="block text-sm font-medium text-dark mb-2">{t("emailLabel")}</label>
-          <input type="email" id="email" name="email" required className="w-full px-4 py-3 rounded-xl border border-gray-200 text-dark text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors" placeholder={t("emailPlaceholder")} />
+          <input type="email" id="email" name="email" required maxLength={254} className="w-full px-4 py-3 rounded-xl border border-gray-200 text-dark text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors" placeholder={t("emailPlaceholder")} />
         </div>
       </div>
 
@@ -83,7 +99,7 @@ export default function ContactForm() {
 
       <div>
         <label htmlFor="message" className="block text-sm font-medium text-dark mb-2">{t("message")}</label>
-        <textarea id="message" name="message" required rows={6} className="w-full px-4 py-3 rounded-xl border border-gray-200 text-dark text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors resize-none" placeholder={t("messagePlaceholder")} />
+        <textarea id="message" name="message" required rows={6} maxLength={5000} className="w-full px-4 py-3 rounded-xl border border-gray-200 text-dark text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors resize-none" placeholder={t("messagePlaceholder")} />
       </div>
 
       {status === "error" && (
