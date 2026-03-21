@@ -1,7 +1,7 @@
 # Tek Dunyasi - Project Context
 
 ## What is this project?
-A professional web agency website for "Tek Dunyasi" (Tech World), built with Next.js 16, React 19, Tailwind CSS 4, and next-intl for internationalization.
+A professional web agency website for "Tek Dunyasi" (Tech World), built with Next.js 16, React 19, Tailwind CSS 4, and next-intl for internationalization. 
 
 ## Tech Stack
 - **Framework**: Next.js 16.2.0 (App Router)
