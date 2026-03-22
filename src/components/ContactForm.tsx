@@ -27,13 +27,13 @@ export default function ContactForm() {
       return;
     }
 
-    const formId = process.env.NEXT_PUBLIC_FORMSPREE_ID ?? "YOUR_FORM_ID";
+    const accessKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "YOUR_ACCESS_KEY";
+    formData.append("access_key", accessKey);
 
     try {
-      const response = await fetch(`https://formspree.io/f/${formId}`, {
+      const response = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         body: formData,
-        headers: { Accept: "application/json" },
       });
 
       if (response.ok) {

@@ -7,7 +7,7 @@ A professional web agency website for "Tek Dunyasi" (Tech World), built with Nex
 - **Framework**: Next.js 16.2.0 (App Router)
 - **UI**: React 19.2.3, Tailwind CSS 4
 - **i18n**: next-intl with 7 languages (tr, en, de, nl, fr, ru, ar) - Turkish is default
-- **Forms**: Formspree (ID via `NEXT_PUBLIC_FORMSPREE_ID` env var)
+- **Forms**: Web3Forms (key via `NEXT_PUBLIC_WEB3FORMS_KEY` env var)
 - **Deployment target**: Vercel
 
 ## Project Structure
@@ -20,7 +20,7 @@ A professional web agency website for "Tek Dunyasi" (Tech World), built with Nex
 
 ## Environment Variables
 - See `.env.example` for all required variables
-- `NEXT_PUBLIC_FORMSPREE_ID` - Formspree form endpoint ID
+- `NEXT_PUBLIC_WEB3FORMS_KEY` - Web3Forms access key
 
 ## Key Decisions & Conventions
 - All text content uses next-intl translations, never hardcoded strings
