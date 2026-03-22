@@ -9,8 +9,9 @@
   },
   "hero": {
     "badge": "Yeni projeler için müsaitiz",
-    "title": "İşinizi ",
-    "titleHighlight": "büyüten web siteleri",
+    "title": "İşinizi büyüten ",
+    "typewriterWords": ["web siteleri", "landing sayfaları", "site yenilemeleri", "SEO çözümleri", "hızlı deneyimler"],
+    "titleHighlight": "",
     "titleEnd": " oluşturuyoruz",
     "description": "Tek Dünyası, küçük ve orta ölçekli işletmelerin güçlü bir çevrimiçi varlık oluşturmasına ve daha fazla müşteri çekmesine yardımcı olan modern, hızlı ve profesyonel web siteleri oluşturur.",
     "cta": "Projenize Başlayın",

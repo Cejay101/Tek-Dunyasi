@@ -9,9 +9,10 @@
   },
   "hero": {
     "badge": "Disponibles pour de nouveaux projets",
-    "title": "Nous créons des sites web qui ",
-    "titleHighlight": "font croître votre entreprise",
-    "titleEnd": "",
+    "title": "Nous créons des ",
+    "typewriterWords": ["sites web", "landing pages", "refontes web", "stratégies SEO", "expériences rapides"],
+    "titleHighlight": "",
+    "titleEnd": " qui font croître votre entreprise",
     "description": "Tek Dünyası crée des sites web modernes, rapides et professionnels qui aident les PME à établir une présence en ligne puissante et à attirer plus de clients.",
     "cta": "Lancez votre projet",
     "ctaSecondary": "Voir nos réalisations",

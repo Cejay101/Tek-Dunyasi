@@ -9,9 +9,10 @@
   },
   "hero": {
     "badge": "Verfügbar für neue Projekte",
-    "title": "Wir erstellen Websites, die ",
-    "titleHighlight": "Ihr Geschäft wachsen lassen",
-    "titleEnd": "",
+    "title": "Wir erstellen ",
+    "typewriterWords": ["Websites", "Landing Pages", "Redesigns", "SEO-Strategien", "schnelle Erlebnisse"],
+    "titleHighlight": "",
+    "titleEnd": ", die Ihr Geschäft wachsen lassen",
     "description": "Tek Dünyası erstellt moderne, schnelle und professionelle Websites, die kleinen und mittleren Unternehmen helfen, eine starke Online-Präsenz aufzubauen und mehr Kunden zu gewinnen.",
     "cta": "Projekt starten",
     "ctaSecondary": "Unsere Arbeiten ansehen",

@@ -1,9 +1,11 @@
 import { useTranslations } from "next-intl";
 import { Icon } from "@iconify/react";
 import Button from "@/components/Button";
+import Typewriter from "@/components/Typewriter";
 
 export default function Hero() {
   const t = useTranslations("hero");
+  const typewriterWords = t.raw("typewriterWords") as string[];
 
   return (
     <section className="relative pt-32 pb-20 sm:pt-40 sm:pb-28 overflow-hidden">
@@ -20,7 +22,7 @@ export default function Hero() {
 
           <h1 className="font-heading font-bold text-4xl sm:text-5xl lg:text-6xl text-dark leading-tight mb-6">
             {t("title")}
-            <span className="text-primary">{t("titleHighlight")}</span>
+            <Typewriter words={typewriterWords} className="text-primary" />
             {t("titleEnd")}
           </h1>
 
