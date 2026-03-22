@@ -1,4 +1,5 @@
 import { Link } from "@/i18n/navigation";
+import { Icon } from "@iconify/react";
 import { IconRenderer } from "./Icons";
 
 interface ServiceCardProps {
@@ -28,9 +29,7 @@ export default function ServiceCard({
         className="text-primary text-sm font-medium inline-flex items-center gap-1 hover:gap-2 transition-all"
       >
         {learnMoreLabel}
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="mt-px">
-          <path d="M6 12L10 8L6 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-        </svg>
+        <Icon icon="lucide:chevron-right" className="w-4 h-4 mt-px" />
       </Link>
     </div>
   );

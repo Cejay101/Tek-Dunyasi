@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import { Icon } from "@iconify/react";
 import Button from "@/components/Button";
 
 export default function Hero() {
@@ -30,9 +31,7 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Button href="/contact" size="lg">
               {t("cta")}
-              <svg width="20" height="20" viewBox="0 0 20 20" fill="none" className="ml-2">
-                <path d="M4 10H16M16 10L11 5M16 10L11 15" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-              </svg>
+              <Icon icon="lucide:arrow-right" className="w-5 h-5 ml-2" />
             </Button>
             <Button href="/portfolio" variant="outline" size="lg">
               {t("ctaSecondary")}

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useTranslations, useLocale } from "next-intl";
+import { Icon } from "@iconify/react";
 import { Link, usePathname, useRouter } from "@/i18n/navigation";
 import { locales, localeNames, type Locale } from "@/i18n/config";
 
@@ -59,15 +60,9 @@ export default function Navbar() {
                 onClick={() => setLangOpen(!langOpen)}
                 className="flex items-center gap-1.5 text-sm font-medium text-text-gray hover:text-primary transition-colors px-2 py-1 rounded-lg hover:bg-gray-50"
               >
-                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                  <circle cx="12" cy="12" r="10" />
-                  <line x1="2" y1="12" x2="22" y2="12" />
-                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
-                </svg>
+                <Icon icon="lucide:globe" className="w-4 h-4" />
                 {locale.toUpperCase()}
-                <svg className={`w-3 h-3 transition-transform ${langOpen ? "rotate-180" : ""}`} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
-                </svg>
+                <Icon icon="lucide:chevron-down" className={`w-3 h-3 transition-transform ${langOpen ? "rotate-180" : ""}`} />
               </button>
 
               {langOpen && (

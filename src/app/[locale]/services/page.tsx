@@ -1,4 +1,5 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { Icon } from "@iconify/react";
 import SectionHeading from "@/components/SectionHeading";
 import { IconRenderer } from "@/components/Icons";
 import Button from "@/components/Button";
@@ -79,9 +80,7 @@ export default async function ServicesPage({
                   <ul className="space-y-3 mb-8">
                     {(t.raw(`items.${id}.benefits`) as string[]).map((benefit: string) => (
                       <li key={benefit} className="flex items-start gap-3 text-text-gray text-sm">
-                        <svg className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                          <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
-                        </svg>
+                        <Icon icon="lucide:circle-check" className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                         {benefit}
                       </li>
                     ))}

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
+import { Icon } from "@iconify/react";
 import { useTranslations } from "next-intl";
 
 export default function ContactForm() {
@@ -51,9 +52,7 @@ export default function ContactForm() {
     return (
       <div className="bg-green-50 rounded-2xl p-12 text-center">
         <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-green-100 flex items-center justify-center">
-          <svg className="w-8 h-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-            <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
-          </svg>
+          <Icon icon="lucide:check" className="w-8 h-8 text-green-600" />
         </div>
         <h3 className="font-heading font-semibold text-xl text-dark mb-2">{t("successTitle")}</h3>
         <p className="text-text-gray">{t("successDesc")}</p>
