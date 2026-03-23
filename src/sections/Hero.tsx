@@ -23,7 +23,8 @@ export default function Hero() {
           <h1 className="font-heading font-bold text-4xl sm:text-5xl lg:text-6xl text-dark leading-tight mb-6">
             {t("title")}
             <Typewriter words={typewriterWords} className="text-primary" />
-            {t("titleEnd")}
+            <br />
+            <span>{t("titleEnd")}</span>
           </h1>
 
           <p className="text-text-gray text-lg sm:text-xl leading-relaxed mb-10 max-w-2xl">
